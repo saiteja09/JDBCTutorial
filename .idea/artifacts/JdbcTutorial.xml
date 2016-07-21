@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JdbcTutorial">
+    <output-path>$PROJECT_DIR$/out/artifacts/JdbcTutorial</output-path>
+    <root id="archive" name="JdbcTutorial.jar" />
+  </artifact>
+</component>

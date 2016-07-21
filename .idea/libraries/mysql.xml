@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Progress/DataDirect/Connect_for_JDBC_51/lib/postgresql.jar!/" />
+      <root url="jar://C:/Program Files/Progress/DataDirect/Connect_for_JDBC_51/lib/sforce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
