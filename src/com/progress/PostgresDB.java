@@ -46,14 +46,6 @@ public class PostgresDB {
 
     }
 
-    public void executeSimpleQuery()
-    {
-        System.out.println("Enter your SQL query here: ");
-        Scanner scanner = new Scanner(System.in);
-        String query = scanner.nextLine();
-        jdbcUtil.executeQuery(query);
-
-    }
 
 
 
